@@ -9,3 +9,9 @@
     width: 200px;
     background-color: #010c15;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+}
